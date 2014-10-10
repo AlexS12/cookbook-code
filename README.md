@@ -1,19 +1,22 @@
 IPython Cookbook
 ================
 
-This repository contains the recipes of the [IPython Cookbook](http://ipython-books.github.io), the definitive guide to **high-performance scientific computing** and **data science** in Python, by [Dr. Cyrille Rossant](http://cyrille.rossant.net), Packt Publishing, 450 pages, September 2014.
+This repository contains the recipes of the [IPython Cookbook](http://ipython-books.github.io), the definitive guide to **high-performance scientific computing** and **data science** in Python, by [Dr. Cyrille Rossant](http://cyrille.rossant.net), Packt Publishing, 500 pages, September 2014.
 
 [Follow me on Twitter to get all updates](https://twitter.com/cyrillerossant)
 
 
 ## Featured recipes
 
-* [Featured Recipe #1: Getting the Best Performance out of NumPy](http://ipython-books.github.io/featured-01.html)
-* [Featured Recipe #2: Simulating a Physical System by Minimizing an Energy](http://ipython-books.github.io/featured-02.html)
-* [Featured Recipe #3: Creating a route planner for road network](http://ipython-books.github.io/featured-03.html)
-* [Featured Recipe #4: Introduction to Machine Learning in Python with scikit-learn](http://ipython-books.github.io/featured-04.html)
-* [Featured Recipe #5: Simulating a Partial Differential Equation: reaction-diffusion systems and Turing patterns](http://ipython-books.github.io/featured-05.html)
-* [Featured Recipe #6: Getting started with Vispy](http://ipython-books.github.io/featured-06.html)
+A selection of free recipes from the book:
+
+1. [Getting the best performance out of NumPy](http://ipython-books.github.io/featured-01/)
+2. [Simulating a physical system by minimizing an energy](http://ipython-books.github.io/featured-02/)
+3. [Creating a route planner for road network](http://ipython-books.github.io/featured-03/)
+4. [Introduction to machine learning in Python with scikit-learn](http://ipython-books.github.io/featured-04/)
+5. [Simulating a partial differential equation: reaction-diffusion systems and Turing patterns](http://ipython-books.github.io/featured-05/)
+6. [Getting started with Vispy](http://ipython-books.github.io/featured-06/)
+* more coming soon...
 
 
 ## Table of contents
@@ -25,9 +28,7 @@ This repository contains the recipes of the [IPython Cookbook](http://ipython-bo
 
 You can report inaccuracies or errors in the [GitHub issue tracker](https://github.com/ipython-books/cookbook-code/issues). Even better, propose your own corrections by submitting a pull request!
 
-* [Erratum #1](https://github.com/ipython-books/cookbook-code/pull/1) in [Featured Recipe 1](http://ipython-books.github.io/featured-01.html): *Correction about strides and copying*, by [Chris Beaumont](https://github.com/ChrisBeaumont).
-* [Erratum #2](https://github.com/ipython-books/cookbook-code/issues/2) in [Featured Recipe 1](http://ipython-books.github.io/featured-01.html): *Precision on explanation of shared memory*, by [Michael Droettboom](https://github.com/mdboom).
-* [Erratum #3](https://github.com/ipython-books/cookbook-code/issues/3) in [recipe 4.9](http://nbviewer.ipython.org/github/ipython-books/cookbook-code/blob/master/notebooks/chapter04_optimization/09_memmap.ipynb): *Added file mode in `memmap`*, by [Renaud Blanch](http://iihm.imag.fr/blanch/).
+* [See the list of errata here](errata.md)
 
 
 ## Example data
